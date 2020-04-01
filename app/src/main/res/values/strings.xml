@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="jump">Jump To First</string>
+    <string name="textViewMain">Nothing here yet</string>
+    <string name="type_your_name">Type your name</string>
+    <string name="close">Close Activity And Send DATA</string>
+    <string name="banana">Banana</string>
+    <string name="textView">Banana on Second Activity</string>
+    <string name="textMandarin"> Mandarin from Third Activity</string>
+    <string name="jump2">Jump To Second</string>
+    <string name="mandarin">Mandarin</string>
+    <string name="jump3">Jump To Third</string>
+</resources>
